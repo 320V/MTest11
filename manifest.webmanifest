@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Geometrik Şekiller Takımı",
+    "short_name": "MEB - Geometrik Şekiller Takımı",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#32277F",
+    "theme_color": "#000",
+    "description": "Geometrik Şekiller Takımı",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
